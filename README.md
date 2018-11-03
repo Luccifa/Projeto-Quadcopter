@@ -1,2 +1,2 @@
 # Projeto-Quadcopter
-Projeto  Quadcopter - Udacity
+Projeto de Aprendizagem sob reforço - Quadcopter - Udacity
